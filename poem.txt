@@ -6,5 +6,6 @@ Blue
 Red
 Orange
 Pink 
+Yellow
 
 Color of rainbow 
