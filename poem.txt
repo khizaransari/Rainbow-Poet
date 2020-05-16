@@ -7,5 +7,6 @@ Red
 Orange
 Pink 
 Yellow
+Brown
 
 Color of rainbow 
